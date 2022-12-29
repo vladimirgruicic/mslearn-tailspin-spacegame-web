@@ -1,4 +1,4 @@
-
+[![Build Status](https://insky.visualstudio.com/PROPO%20test/_apis/build/status/vladimirgruicic.mslearn-tailspin-spacegame-web?branchName=main)](https://insky.visualstudio.com/PROPO%20test/_build/latest?definitionId=42&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
