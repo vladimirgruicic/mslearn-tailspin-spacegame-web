@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'MyAgentPool'
+  name: 'MyAgentPoolAzureDevOpsVladimir'
   demands:
   - npm
 variables:
